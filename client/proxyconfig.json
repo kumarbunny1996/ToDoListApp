@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+        "target": "http://localhost:3000/server/to_do_list_app_function/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    }
+}

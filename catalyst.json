@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "to_do_list_app_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

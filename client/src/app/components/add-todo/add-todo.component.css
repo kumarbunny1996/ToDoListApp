@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+}
+
+.form input[type="text"] {
+    flex: 10;
+    padding: 15px;
+    outline: none;
+}
+
+.form input[type="submit"] {
+    outline: none;
+    flex: 2;
+}

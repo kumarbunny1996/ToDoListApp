@@ -1,0 +1,26 @@
+.del {
+    float: right;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    background: rgb(255, 95, 95);
+    color: #fff;
+    padding: 5px 9px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+
+.del:hover {
+    background: #fff;
+    color: rgb(255, 95, 95);
+}
+
+.todo {
+    padding: 10px;
+    background: #dfdede;
+    border-bottom: thin #cccccc solid;
+}
+
+.is-completed {
+    text-decoration: line-through;
+}
